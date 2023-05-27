@@ -12,5 +12,7 @@ Main objective of this Improved Algorithm is to overcome the limitation of tradi
 The Round Robin (RR) CPU scheduling algorithm considers all the jobs, which are present in ready queue as equal priority jobs. It offers identical chance to all the jobs to execute in CPU for dura- tion called Time Quantum (TQ). So, a process can be executed by the CPU until its time quantum (TQ) terminates or the process terminates by its own after conclusion of its CPU worst time.
 It may be probable that processes present in ready queue are of diverse priority i.e. high or low. Some processes may need Central Processing Unit on urgent basis (i.e. program to shut down com- puter because of temperature exceeded, alert on unauthorized access, etc.) are called high priority jobs. On the other hand, an- other type of processes is with normal priority
 
+Link to the original Research Paper - [327964264_An_Improved_Round_Robin_CPU_Scheduling_Algorithm_based_on_Priority_of_Process](https://www.researchgate.net/publication/327964264_An_Improved_Round_Robin_CPU_Scheduling_Algorithm_based_on_Priority_of_Process/fulltext/5c2ce13aa6fdccfc70781c21/An-Improved-Round-Robin-CPU-Scheduling-Algorithm-based-on-Priority-of-Process.pdf?origin=publication_detail)
+
 
 
